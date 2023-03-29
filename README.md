@@ -1,4 +1,4 @@
-# Tutorials-in-Swift
+# Tutorials in Swift
 
 This repo contains my codes and notes that I wrote while trying to learn.
 
