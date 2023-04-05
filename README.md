@@ -9,4 +9,4 @@ Bu repo öğrenmeye çalışırken yazdığım kodlarımı ve notlarımı içerm
 | Title | Date     | Description                |
 | :-------- | :------- | :------------------------- |
 | [**ScrollView**](https://github.com/MuhsinCanY/Tutorials-in-Swift/tree/main/Tutorials-in-Swift/ScrollViewExtendable) | `04.04.2023` | Basic ScrollView usage programmatically |
-| [**MVVM Data Binding**](https://github.com/MuhsinCanY/Tutorials-in-Swift/tree/main/Tutorials-in-Swift/MVVMDataBinding) | `04.04.2023` | Includes three ways to bind data |
+| [**MVVM Data Binding**](https://github.com/MuhsinCanY/Tutorials-in-Swift/tree/main/Tutorials-in-Swift/MVVMDataBinding) | `05.04.2023` | Includes three ways to bind data |
