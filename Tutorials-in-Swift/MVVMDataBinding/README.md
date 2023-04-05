@@ -3,6 +3,12 @@
 
 Data binding'in  3 farklı yöntemini açıklayacağım.
 
+ [**1.Standart Binding**](https://github.com/MuhsinCanY/Tutorials-in-Swift/tree/main/Tutorials-in-Swift/MVVMDataBinding#standart-binding)
+ 
+ [**2.Binding with Closure**](https://github.com/MuhsinCanY/Tutorials-in-Swift/tree/main/Tutorials-in-Swift/MVVMDataBinding#binding-with-closure)
+ 
+ [**3.Data Binding with Observable**](https://github.com/MuhsinCanY/Tutorials-in-Swift/tree/main/Tutorials-in-Swift/MVVMDataBinding#binding-with-closure)
+
 
 ## Standart Binding
 
