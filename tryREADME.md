@@ -1,2 +1,0 @@
-#  Değirmen başında vurdular beni
-
